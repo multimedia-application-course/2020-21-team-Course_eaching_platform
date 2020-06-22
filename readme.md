@@ -6,6 +6,9 @@
 ### 运行环境：
 	后端：Jdk1.8、Mysql8.0、Redis3.2.100、Elasticsearch6.22、Mongodb2.2.21、RabbitMQ21.3
 	前端：nodejs8.9.4
+### 技术栈
+### 前端技术栈
+	html，css，js，vue
 ### 后端技术栈
 	网络教学平台采用Spring Boot构建，采用Spring Cloud微服务框架
 	持久层：MySQL、MongoDB、Redis、ElasticSearch 
